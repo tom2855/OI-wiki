@@ -67,3 +67,13 @@
 
 - [函数](../lang/func.md)
 - [递归 & 分治](../basic/divide-and-conquer.md)
+
+### 1.6 文件操作与模板库
+
+在大部分线下赛事中，程序的输入与输出均被要求使用文件进行，因此，掌握文件IO的技能十分重要。
+
+- [文件操作](../lang/file-op.md)
+
+C++ 自带了被称为 STL 的标准模板库 (Standard Template Library)，它将我们常用的一些数据结构与算法都进行了实现，十分方便。
+
+- [标准库](../lang/csl.md)
